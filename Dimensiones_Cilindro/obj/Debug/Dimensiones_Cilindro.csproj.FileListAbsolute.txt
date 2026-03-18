@@ -1,0 +1,10 @@
+C:\Users\mxche\OneDrive\Documents\Programacion 2 semestre\Dimensiones_Cilindro\bin\Debug\Dimensiones_Cilindro.exe.config
+C:\Users\mxche\OneDrive\Documents\Programacion 2 semestre\Dimensiones_Cilindro\bin\Debug\Dimensiones_Cilindro.exe
+C:\Users\mxche\OneDrive\Documents\Programacion 2 semestre\Dimensiones_Cilindro\bin\Debug\Dimensiones_Cilindro.pdb
+C:\Users\mxche\OneDrive\Documents\Programacion 2 semestre\Dimensiones_Cilindro\obj\Debug\Dimensiones_Cilindro.csproj.AssemblyReference.cache
+C:\Users\mxche\OneDrive\Documents\Programacion 2 semestre\Dimensiones_Cilindro\obj\Debug\Dimensiones_Cilindro.DimenCilindro.resources
+C:\Users\mxche\OneDrive\Documents\Programacion 2 semestre\Dimensiones_Cilindro\obj\Debug\Dimensiones_Cilindro.Properties.Resources.resources
+C:\Users\mxche\OneDrive\Documents\Programacion 2 semestre\Dimensiones_Cilindro\obj\Debug\Dimensiones_Cilindro.csproj.GenerateResource.cache
+C:\Users\mxche\OneDrive\Documents\Programacion 2 semestre\Dimensiones_Cilindro\obj\Debug\Dimensiones_Cilindro.csproj.CoreCompileInputs.cache
+C:\Users\mxche\OneDrive\Documents\Programacion 2 semestre\Dimensiones_Cilindro\obj\Debug\Dimensiones_Cilindro.exe
+C:\Users\mxche\OneDrive\Documents\Programacion 2 semestre\Dimensiones_Cilindro\obj\Debug\Dimensiones_Cilindro.pdb
