@@ -1,0 +1,10 @@
+C:\Users\mxche\OneDrive\Documents\Programacion 2 semestre\Practica 18\bin\Debug\Practica 18.exe.config
+C:\Users\mxche\OneDrive\Documents\Programacion 2 semestre\Practica 18\bin\Debug\Practica 18.exe
+C:\Users\mxche\OneDrive\Documents\Programacion 2 semestre\Practica 18\bin\Debug\Practica 18.pdb
+C:\Users\mxche\OneDrive\Documents\Programacion 2 semestre\Practica 18\obj\Debug\Practica 18.csproj.AssemblyReference.cache
+C:\Users\mxche\OneDrive\Documents\Programacion 2 semestre\Practica 18\obj\Debug\Practica_18.Form1.resources
+C:\Users\mxche\OneDrive\Documents\Programacion 2 semestre\Practica 18\obj\Debug\Practica_18.Properties.Resources.resources
+C:\Users\mxche\OneDrive\Documents\Programacion 2 semestre\Practica 18\obj\Debug\Practica 18.csproj.GenerateResource.cache
+C:\Users\mxche\OneDrive\Documents\Programacion 2 semestre\Practica 18\obj\Debug\Practica 18.csproj.CoreCompileInputs.cache
+C:\Users\mxche\OneDrive\Documents\Programacion 2 semestre\Practica 18\obj\Debug\Practica 18.exe
+C:\Users\mxche\OneDrive\Documents\Programacion 2 semestre\Practica 18\obj\Debug\Practica 18.pdb
