@@ -1,0 +1,10 @@
+C:\Users\mxche\OneDrive\Documents\Programacion 2 semestre\Sumar_Numeros\bin\Debug\Sumar_Numeros.exe.config
+C:\Users\mxche\OneDrive\Documents\Programacion 2 semestre\Sumar_Numeros\bin\Debug\Sumar_Numeros.exe
+C:\Users\mxche\OneDrive\Documents\Programacion 2 semestre\Sumar_Numeros\bin\Debug\Sumar_Numeros.pdb
+C:\Users\mxche\OneDrive\Documents\Programacion 2 semestre\Sumar_Numeros\obj\Debug\Sumar_Numeros.csproj.AssemblyReference.cache
+C:\Users\mxche\OneDrive\Documents\Programacion 2 semestre\Sumar_Numeros\obj\Debug\Sumar_Numeros.Sumar_Numeros.resources
+C:\Users\mxche\OneDrive\Documents\Programacion 2 semestre\Sumar_Numeros\obj\Debug\Sumar_Numeros.Properties.Resources.resources
+C:\Users\mxche\OneDrive\Documents\Programacion 2 semestre\Sumar_Numeros\obj\Debug\Sumar_Numeros.csproj.GenerateResource.cache
+C:\Users\mxche\OneDrive\Documents\Programacion 2 semestre\Sumar_Numeros\obj\Debug\Sumar_Numeros.csproj.CoreCompileInputs.cache
+C:\Users\mxche\OneDrive\Documents\Programacion 2 semestre\Sumar_Numeros\obj\Debug\Sumar_Numeros.exe
+C:\Users\mxche\OneDrive\Documents\Programacion 2 semestre\Sumar_Numeros\obj\Debug\Sumar_Numeros.pdb
