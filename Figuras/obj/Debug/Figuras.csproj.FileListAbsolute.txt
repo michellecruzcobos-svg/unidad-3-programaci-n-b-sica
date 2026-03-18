@@ -1,0 +1,10 @@
+C:\Users\mxche\OneDrive\Documents\Programacion 2 semestre\Figuras\bin\Debug\Figuras.exe.config
+C:\Users\mxche\OneDrive\Documents\Programacion 2 semestre\Figuras\bin\Debug\Figuras.exe
+C:\Users\mxche\OneDrive\Documents\Programacion 2 semestre\Figuras\bin\Debug\Figuras.pdb
+C:\Users\mxche\OneDrive\Documents\Programacion 2 semestre\Figuras\obj\Debug\Figuras.csproj.AssemblyReference.cache
+C:\Users\mxche\OneDrive\Documents\Programacion 2 semestre\Figuras\obj\Debug\Figuras.Properties.Resources.resources
+C:\Users\mxche\OneDrive\Documents\Programacion 2 semestre\Figuras\obj\Debug\Figuras.csproj.GenerateResource.cache
+C:\Users\mxche\OneDrive\Documents\Programacion 2 semestre\Figuras\obj\Debug\Figuras.csproj.CoreCompileInputs.cache
+C:\Users\mxche\OneDrive\Documents\Programacion 2 semestre\Figuras\obj\Debug\Figuras.exe
+C:\Users\mxche\OneDrive\Documents\Programacion 2 semestre\Figuras\obj\Debug\Figuras.pdb
+C:\Users\mxche\OneDrive\Documents\Programacion 2 semestre\Figuras\obj\Debug\Figuras.Figuras.resources
