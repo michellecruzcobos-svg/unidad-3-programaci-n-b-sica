@@ -1,0 +1,10 @@
+C:\Users\mxche\OneDrive\Documents\Programacion 2 semestre\Conversione\obj\Debug\Conversione.csproj.AssemblyReference.cache
+C:\Users\mxche\OneDrive\Documents\Programacion 2 semestre\Conversione\obj\Debug\Conversione.Conversiones.resources
+C:\Users\mxche\OneDrive\Documents\Programacion 2 semestre\Conversione\obj\Debug\Conversione.Properties.Resources.resources
+C:\Users\mxche\OneDrive\Documents\Programacion 2 semestre\Conversione\obj\Debug\Conversione.csproj.GenerateResource.cache
+C:\Users\mxche\OneDrive\Documents\Programacion 2 semestre\Conversione\obj\Debug\Conversione.csproj.CoreCompileInputs.cache
+C:\Users\mxche\OneDrive\Documents\Programacion 2 semestre\Conversione\bin\Debug\Conversione.exe.config
+C:\Users\mxche\OneDrive\Documents\Programacion 2 semestre\Conversione\bin\Debug\Conversione.exe
+C:\Users\mxche\OneDrive\Documents\Programacion 2 semestre\Conversione\bin\Debug\Conversione.pdb
+C:\Users\mxche\OneDrive\Documents\Programacion 2 semestre\Conversione\obj\Debug\Conversione.exe
+C:\Users\mxche\OneDrive\Documents\Programacion 2 semestre\Conversione\obj\Debug\Conversione.pdb
