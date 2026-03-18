@@ -1,0 +1,10 @@
+C:\Users\mxche\OneDrive\Documents\Programacion 2 semestre\Numeros_Inversos\bin\Debug\Numeros_Inversos.exe.config
+C:\Users\mxche\OneDrive\Documents\Programacion 2 semestre\Numeros_Inversos\bin\Debug\Numeros_Inversos.exe
+C:\Users\mxche\OneDrive\Documents\Programacion 2 semestre\Numeros_Inversos\bin\Debug\Numeros_Inversos.pdb
+C:\Users\mxche\OneDrive\Documents\Programacion 2 semestre\Numeros_Inversos\obj\Debug\Numeros_Inversos.csproj.AssemblyReference.cache
+C:\Users\mxche\OneDrive\Documents\Programacion 2 semestre\Numeros_Inversos\obj\Debug\Numeros_Inversos.Numeros_Inversos.resources
+C:\Users\mxche\OneDrive\Documents\Programacion 2 semestre\Numeros_Inversos\obj\Debug\Numeros_Inversos.Properties.Resources.resources
+C:\Users\mxche\OneDrive\Documents\Programacion 2 semestre\Numeros_Inversos\obj\Debug\Numeros_Inversos.csproj.GenerateResource.cache
+C:\Users\mxche\OneDrive\Documents\Programacion 2 semestre\Numeros_Inversos\obj\Debug\Numeros_Inversos.csproj.CoreCompileInputs.cache
+C:\Users\mxche\OneDrive\Documents\Programacion 2 semestre\Numeros_Inversos\obj\Debug\Numeros_Inversos.exe
+C:\Users\mxche\OneDrive\Documents\Programacion 2 semestre\Numeros_Inversos\obj\Debug\Numeros_Inversos.pdb
