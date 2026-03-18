@@ -1,0 +1,10 @@
+C:\Users\mxche\OneDrive\Documents\Programacion 2 semestre\Hello_Mundo\bin\Debug\Hello_Mundo.exe.config
+C:\Users\mxche\OneDrive\Documents\Programacion 2 semestre\Hello_Mundo\bin\Debug\Hello_Mundo.exe
+C:\Users\mxche\OneDrive\Documents\Programacion 2 semestre\Hello_Mundo\bin\Debug\Hello_Mundo.pdb
+C:\Users\mxche\OneDrive\Documents\Programacion 2 semestre\Hello_Mundo\obj\Debug\Hello_Mundo.csproj.AssemblyReference.cache
+C:\Users\mxche\OneDrive\Documents\Programacion 2 semestre\Hello_Mundo\obj\Debug\Hello_Mundo.Hello_Mundo.resources
+C:\Users\mxche\OneDrive\Documents\Programacion 2 semestre\Hello_Mundo\obj\Debug\Hello_Mundo.Properties.Resources.resources
+C:\Users\mxche\OneDrive\Documents\Programacion 2 semestre\Hello_Mundo\obj\Debug\Hello_Mundo.csproj.GenerateResource.cache
+C:\Users\mxche\OneDrive\Documents\Programacion 2 semestre\Hello_Mundo\obj\Debug\Hello_Mundo.csproj.CoreCompileInputs.cache
+C:\Users\mxche\OneDrive\Documents\Programacion 2 semestre\Hello_Mundo\obj\Debug\Hello_Mundo.exe
+C:\Users\mxche\OneDrive\Documents\Programacion 2 semestre\Hello_Mundo\obj\Debug\Hello_Mundo.pdb
