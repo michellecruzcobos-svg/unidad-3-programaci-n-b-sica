@@ -1,0 +1,10 @@
+C:\Users\mxche\OneDrive\Documents\Programacion 2 semestre\Practica 20\bin\Debug\Practica 20.exe.config
+C:\Users\mxche\OneDrive\Documents\Programacion 2 semestre\Practica 20\bin\Debug\Practica 20.exe
+C:\Users\mxche\OneDrive\Documents\Programacion 2 semestre\Practica 20\bin\Debug\Practica 20.pdb
+C:\Users\mxche\OneDrive\Documents\Programacion 2 semestre\Practica 20\obj\Debug\Practica 20.csproj.AssemblyReference.cache
+C:\Users\mxche\OneDrive\Documents\Programacion 2 semestre\Practica 20\obj\Debug\Practica_20.Form1.resources
+C:\Users\mxche\OneDrive\Documents\Programacion 2 semestre\Practica 20\obj\Debug\Practica_20.Properties.Resources.resources
+C:\Users\mxche\OneDrive\Documents\Programacion 2 semestre\Practica 20\obj\Debug\Practica 20.csproj.GenerateResource.cache
+C:\Users\mxche\OneDrive\Documents\Programacion 2 semestre\Practica 20\obj\Debug\Practica 20.csproj.CoreCompileInputs.cache
+C:\Users\mxche\OneDrive\Documents\Programacion 2 semestre\Practica 20\obj\Debug\Practica 20.exe
+C:\Users\mxche\OneDrive\Documents\Programacion 2 semestre\Practica 20\obj\Debug\Practica 20.pdb
