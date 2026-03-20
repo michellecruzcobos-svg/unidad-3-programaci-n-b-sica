@@ -1,0 +1,10 @@
+C:\Users\mxche\OneDrive\Documents\Programacion 2 semestre\Dowhile1\bin\Debug\Dowhile1.exe.config
+C:\Users\mxche\OneDrive\Documents\Programacion 2 semestre\Dowhile1\bin\Debug\Dowhile1.exe
+C:\Users\mxche\OneDrive\Documents\Programacion 2 semestre\Dowhile1\bin\Debug\Dowhile1.pdb
+C:\Users\mxche\OneDrive\Documents\Programacion 2 semestre\Dowhile1\obj\Debug\Dowhile1.csproj.AssemblyReference.cache
+C:\Users\mxche\OneDrive\Documents\Programacion 2 semestre\Dowhile1\obj\Debug\Dowhile1.Form1.resources
+C:\Users\mxche\OneDrive\Documents\Programacion 2 semestre\Dowhile1\obj\Debug\Dowhile1.Properties.Resources.resources
+C:\Users\mxche\OneDrive\Documents\Programacion 2 semestre\Dowhile1\obj\Debug\Dowhile1.csproj.GenerateResource.cache
+C:\Users\mxche\OneDrive\Documents\Programacion 2 semestre\Dowhile1\obj\Debug\Dowhile1.csproj.CoreCompileInputs.cache
+C:\Users\mxche\OneDrive\Documents\Programacion 2 semestre\Dowhile1\obj\Debug\Dowhile1.exe
+C:\Users\mxche\OneDrive\Documents\Programacion 2 semestre\Dowhile1\obj\Debug\Dowhile1.pdb
