@@ -1,0 +1,10 @@
+C:\Users\mxche\OneDrive\Documents\Programacion 2 semestre\WhileDo9\bin\Debug\WhileDo9.exe.config
+C:\Users\mxche\OneDrive\Documents\Programacion 2 semestre\WhileDo9\bin\Debug\WhileDo9.exe
+C:\Users\mxche\OneDrive\Documents\Programacion 2 semestre\WhileDo9\bin\Debug\WhileDo9.pdb
+C:\Users\mxche\OneDrive\Documents\Programacion 2 semestre\WhileDo9\obj\Debug\WhileDo9.csproj.AssemblyReference.cache
+C:\Users\mxche\OneDrive\Documents\Programacion 2 semestre\WhileDo9\obj\Debug\WhileDo9.Form1.resources
+C:\Users\mxche\OneDrive\Documents\Programacion 2 semestre\WhileDo9\obj\Debug\WhileDo9.Properties.Resources.resources
+C:\Users\mxche\OneDrive\Documents\Programacion 2 semestre\WhileDo9\obj\Debug\WhileDo9.csproj.GenerateResource.cache
+C:\Users\mxche\OneDrive\Documents\Programacion 2 semestre\WhileDo9\obj\Debug\WhileDo9.csproj.CoreCompileInputs.cache
+C:\Users\mxche\OneDrive\Documents\Programacion 2 semestre\WhileDo9\obj\Debug\WhileDo9.exe
+C:\Users\mxche\OneDrive\Documents\Programacion 2 semestre\WhileDo9\obj\Debug\WhileDo9.pdb
