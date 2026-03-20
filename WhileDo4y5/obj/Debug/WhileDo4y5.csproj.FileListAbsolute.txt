@@ -1,0 +1,10 @@
+C:\Users\mxche\OneDrive\Documents\Programacion 2 semestre\WhileDo4y5\obj\Debug\WhileDo4y5.csproj.AssemblyReference.cache
+C:\Users\mxche\OneDrive\Documents\Programacion 2 semestre\WhileDo4y5\obj\Debug\WhileDo4y5.Form1.resources
+C:\Users\mxche\OneDrive\Documents\Programacion 2 semestre\WhileDo4y5\obj\Debug\WhileDo4y5.Properties.Resources.resources
+C:\Users\mxche\OneDrive\Documents\Programacion 2 semestre\WhileDo4y5\obj\Debug\WhileDo4y5.csproj.GenerateResource.cache
+C:\Users\mxche\OneDrive\Documents\Programacion 2 semestre\WhileDo4y5\obj\Debug\WhileDo4y5.csproj.CoreCompileInputs.cache
+C:\Users\mxche\OneDrive\Documents\Programacion 2 semestre\WhileDo4y5\bin\Debug\WhileDo4y5.exe.config
+C:\Users\mxche\OneDrive\Documents\Programacion 2 semestre\WhileDo4y5\bin\Debug\WhileDo4y5.exe
+C:\Users\mxche\OneDrive\Documents\Programacion 2 semestre\WhileDo4y5\bin\Debug\WhileDo4y5.pdb
+C:\Users\mxche\OneDrive\Documents\Programacion 2 semestre\WhileDo4y5\obj\Debug\WhileDo4y5.exe
+C:\Users\mxche\OneDrive\Documents\Programacion 2 semestre\WhileDo4y5\obj\Debug\WhileDo4y5.pdb
